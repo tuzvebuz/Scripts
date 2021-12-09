@@ -22,7 +22,7 @@ def convertandtype():
     script = open('text.txt', 'r')
     for word in script:
         if not word.isspace():
-            pyautogui.write(word, interval=0.08
+            pyautogui.write(word, interval=0.08)
 
 
 convertandtype()
