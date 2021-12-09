@@ -7,7 +7,7 @@ import pyautogui
 import cv2
 import fileinput
 
-pytesseract.pytesseract.tesseract_cmd = 'C:/Users/ahmet/AppData/Local/Programs/Tesseract-OCR/tesseract.exe'
+pytesseract.pytesseract.tesseract_cmd = 'pytesseract executable path'
 
 
 def convertandtype():
