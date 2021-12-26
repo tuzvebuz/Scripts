@@ -1,0 +1,1359 @@
+1638092205343	geckodriver	INFO	Listening on 127.0.0.1:51023
+1638092208400	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51024" "-no-remote" "-profile" "C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofilest6b2y"
+1638092209095	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofilest6b2y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51024/devtools/browser/bae6c1e4-62e0-4464-9a7c-d9eee432c3d3
+1638092212946	Marionette	INFO	Listening on port 51029
+1638092213256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638092289517	Marionette	INFO	Stopped listening on port 51029
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51074" "-no-remote" "-profile" "C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofilegT82ji"
+1638092267342	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofilegT82ji\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51074/devtools/browser/d37555b2-7cf1-4799-af2c-91ac1b5438d8
+1638092271702	Marionette	INFO	Listening on port 51079
+1638092271914	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1638092406533	Marionette	INFO	Stopped listening on port 51079
+8092342007	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51211" "-no-remote" "-profile" "C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofileZney9S"
+1638092342518	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofileZney9S\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51211/devtools/browser/48fc64cb-f9b3-4044-9518-d4fdb43e1834
+1638092346052	Marionette	INFO	Listening on port 51216
+1638092346243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1638093061159	Marionette	INFO	Stopped listening on port 51216
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+met\\AppData\\Local\\Temp\\rust_mozprofileMmrttu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57203/devtools/browser/045ab21e-8a1b-4e30-a064-06a3f9d2d741
+1638092997113	Marionette	INFO	Listening on port 57208
+1638092997470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638093059699	Marionette	INFO	Stopped listening on port 57208
+8093043710	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57323" "-no-remote" "-profile" "C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofile5xp5qG"
+1638093044476	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofile5xp5qG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57323/devtools/browser/5d2fc7ce-6e24-4676-a482-c19bfa7fc3a3
+1638093047935	Marionette	INFO	Listening on port 57328
+1638093048070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638093060384	Marionette	INFO	Stopped listening on port 57328
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1638093695369	geckodriver	INFO	Listening on 127.0.0.1:53269
+1638093698408	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53270" "-no-remote" "-profile" "C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofilewOcoS1"
+1638093699045	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofilewOcoS1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53270/devtools/browser/03999c72-829a-4509-8d88-6bdd7bc69b86
+1638093703189	Marionette	INFO	Listening on port 53275
+1638093703266	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638093906599	Marionette	INFO	Stopped listening on port 53275
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+stening on ws://localhost:53390/devtools/browser/2514958f-df65-48b2-a2c9-20642f07dd66
+1638093751877	Marionette	INFO	Listening on port 53395
+1638093752329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638093905665	Marionette	INFO	Stopped listening on port 53395
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50742" "-no-remote" "-profile" "C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofileKJxD72"
+1638093870655	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofileKJxD72\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50742/devtools/browser/e225c5b4-3c39-49ad-aca8-5e1f7260436f
+1638093874458	Marionette	INFO	Listening on port 50747
+1638093874969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638093907568	Marionette	INFO	Stopped listening on port 50747
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638094311377	geckodriver	INFO	Listening on 127.0.0.1:65171
+1638094314422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65172" "-no-remote" "-profile" "C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofileadJfRO"
+1638094314889	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofileadJfRO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65172/devtools/browser/f7728877-c622-41d1-a2fe-d9b2d12a9af0
+1638094318733	Marionette	INFO	Listening on port 65177
+1638094318778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638094347038	Marionette	INFO	Stopped listening on port 65177
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638121569281	geckodriver	INFO	Listening on 127.0.0.1:56293
+1638121572357	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56294" "-no-remote" "-profile" "C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofileZvo20p"
+1638121573168	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofileZvo20p\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56294/devtools/browser/464d8d0e-2ad6-4d9a-b0fd-bd9cda52f852
+1638121577164	Marionette	INFO	Listening on port 56299
+1638121577240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1638121850600	Marionette	INFO	Stopped listening on port 56299
+e-debugging-port" "57921" "-no-remote" "-profile" "C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofile9c7t5E"
+1638121750558	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofile9c7t5E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57921/devtools/browser/d3061ba0-bf2e-423b-ae58-021468fd7763
+1638121754921	Marionette	INFO	Listening on port 57926
+1638121755238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/W74_wbIuhH6bObXj0uCjode8PwiBrxgOKnAqo6ShAmY.js line 1 > eval line 6586 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/W74_wbIuhH6bObXj0uCjode8PwiBrxgOKnAqo6ShAmY.js line 1 > eval line 3883 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f29d120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f858120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc60e3b200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc60e3b820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc63241200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dbba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efc22e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f858120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f889040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f889120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f889040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f889120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f858120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f2bc040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f01dba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f838e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f2bcba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f858120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f838120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dbd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc61a3f2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f8894a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc61a3f040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f01d2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f01d820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f01dac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f858740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc60560ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc60560d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f01dac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc605ec2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efb73c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dbf20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f01dac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f889660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efc2d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dbf20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efb73c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f01de40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed7b120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dbf20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed7bc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed7be40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed7bf20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed7bc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5edd6200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed7be40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed7be40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5edd6200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed7bc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f078ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f078c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dd4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dde40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed7b740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed7b820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed7bac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dd4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed7b740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5edd6c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efb74a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efb7ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed7b740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5edd6c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dd120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dd200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9ddac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9ddba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dd120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed7b740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f078ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f078c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f889900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc60560900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc60e022e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc60e02580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f078e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc60560900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc60e3b740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc60e02580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc60560900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc60e02040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc61a3f3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f01df20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f838660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f078c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f01df20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f838660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f01df20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f078c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f228d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc60560ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dd740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d8cd580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d8cd660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d8cd740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9ddac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dd740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f29d9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc60e02120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f228900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f228820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f228ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dd740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bd4e2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d8cd120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d8cdf20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bd4e2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dd040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dd120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dd200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efb7f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dd9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efb74a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bd4e2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dd040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f128ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d8cdd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f29d040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bd4e2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d8cdd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5edd6820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5edd6900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d8cd2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d8cd3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d8cd200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d8cd660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc60560900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d8cd3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dd900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d8cd200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc60560900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d8cd660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d8cd200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dd900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d8cd3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9ddf20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9ddc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d8cd660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efc24a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d8cd580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f128200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5edd6820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efc2c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f838900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f838040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dbac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9ddd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efc6660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efc29e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d8cd660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d8cde40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d8cd660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ef79900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d8cdba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dd120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efb7580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9ddd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9ddf20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dd4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d8cde40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f4b6c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f4b6d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f4b6c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f4b6d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d8cdba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d8cd200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e969120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd8f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e969120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efc69e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d8cd200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dd200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dd3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efc2d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dd200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dd200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dd200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f4b6f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc60546820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc60546900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc60546ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d8cde40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f838120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f29c660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f838120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f29c660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efc6120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ef79d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f03fc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f03fd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d8cd200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f29c9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc635d7580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d87f580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd8f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ef79820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efc6580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efc2d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e969120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e969200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efb7d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bd4e2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5edd6820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5edd6900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f12e900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f12e900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efc6c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd8f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ef79200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efb7ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bd4e2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efc2040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efc6d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f042ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5edd6c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dbf20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed1d660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efc6120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f042040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f042120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5edd6820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efb7f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efb7d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efb7d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efb7d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bd4e2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bd4e2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f0429e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f042040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f0f5900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f0f5900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f128f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f12e040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f12e120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed1d660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed1d660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f0f5c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f0f5e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f1d5120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f0f5e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e99f120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f0f5200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f0f5740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc63a0b900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bd4e2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc63a0bac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc63a0bba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc63a0bac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc63a0bba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e99ff20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed1d660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5edd6820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efb7f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efc6120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efc6ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efc6d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bd4e2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bd4e2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9379e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e969120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e969200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e969200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e99fba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e99fd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc63a0e740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc63a0e820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc63a0e740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efc2200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efc2580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efc2200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efc2580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd8f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd8f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dbe40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dbf20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed1d3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed1d580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed1d660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed1d660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd8f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e99fba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dbba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5edd6820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5edd6900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5edd6c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5edd6e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd8f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd8f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9379e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc63a7b200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f12e4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd8f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dbf20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e99fba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed1d120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f02bf20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f128d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dbf20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f02bc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f2f2580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f2f24a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f2f2660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dbe40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efb7f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efc2e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f02bc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f02bac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc62d51660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc62d51740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc62d51820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc62d51900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc62d519e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dbe40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f02bac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc62d51820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efc22e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc635d2200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f2f2120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dbe40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f2f22e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f2f22e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc62d29ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f02bd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e99f9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efc2820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5efc2820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e99f9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f02bd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e99f040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e99fac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed1d580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed1d580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed9eac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd89e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9efe40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9373c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed9eac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd8ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9efe40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed9eac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed1d120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed9e3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed9e3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9379e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9379e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e99f200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e969200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e99f3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9373c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d87f580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d87fd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9379e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d87fd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f1dc120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f1dc200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f1dc2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d87fd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed9eac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5eda7040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5eda7d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bd4e2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f4ad040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed9eac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f1a6f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bd4e2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5eda7200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5eda74a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5eda7200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5eda7c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5eda7820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b49e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b4900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b4ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b4900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e99f3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b43c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b43c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9dbf20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b4e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b4200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b42e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b42e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b4900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b49e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b4ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e99f3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5eda74a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b43c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b4200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bd4e2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5eda7740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b4d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5eda7740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed9eac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5eda7f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d87fc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d87fc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc60549040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc62d913c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc60549040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc62d913c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b43c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b43c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b4200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b42e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b4d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b4d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f1a6ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f48dba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed1d2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b43c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f1fd040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f1fd200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b49e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd8200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd84a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd89e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b42e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc60521ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc60521c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc60521d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc60521e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b42e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc60521c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc60521d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b42e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5eda7e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f1fd040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd8120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd84a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd89e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc6355bd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc6355bc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc60521ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc62da3d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc63a11200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d733820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d733900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d733900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd84a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc6355bd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b4f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9efd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc6358f820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc6358f9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc6358f900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f1fd3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f1fd580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9efd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc6358f820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc6358f9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f1fd580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b43c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b43c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b4d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b4e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5eda7e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f1fd040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc62da3d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d704820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d704820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70eba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70ec80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70ed60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d704200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d704200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f1cc200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f1cc2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f1cc3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f1cc4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f1cc580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f1cc660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f1cc740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f1cc820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f1cc900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d704200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f1cc200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f1cc2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f1cc3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f1cc4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f1cc580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f1cc660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f1cc740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f1cc820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f1cc900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d7044a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d7044a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70eba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70ec80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70ed60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d7463c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d704c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e938740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b4ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d704200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd8120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd84a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd89e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d746ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d746d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b42e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9efd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d704740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d704820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d7044a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d746040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70eba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d746120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d746200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d7462e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d7464a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d746580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d746660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d704740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d704740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d7469e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d746ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d7043c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d87fba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9efac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9efc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9192e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9efc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b4040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9efc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b4040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bd4e2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bd4e2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d746660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d746820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d746900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d7469e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d746e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d87fc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d7043c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70ee40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d7464a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9194a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e919580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d7043c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d746580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d87fba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9efe40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d86bf20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc63a7a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc63a7a120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc63a7a200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d86bf20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc63a7a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc63a7a120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc63a7a200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d7464a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b4d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70ed60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc635f0820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc635f0900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed9e120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bd4ed60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9efe40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f1df900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f2f3200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f2f32e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f2f34a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f2f33c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f2f3580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f2f3660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f2f3740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9194a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9194a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f2f3740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd8120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bd4ed60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd84a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd89e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd84a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd89e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd89e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d746900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9f7580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9379e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e99f040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e99f120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e99f200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e99f3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd8ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70ee40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d746200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d746c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d746d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d87fba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d87fc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b4040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b4200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9b4200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e99f660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9f7ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d746120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d7464a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9373c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9374a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd8ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd8f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd8ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd8f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd8ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd8f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70eac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e99f3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d7462e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d746660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed9e740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f0fd900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e969120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e99f740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e99f820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9db900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d746660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d746120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed9e9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5ed9e900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70eac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc63a56580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc63a564a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc63a56660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc63a56740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70eac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc63a564a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc63a56660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d7464a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d746660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f0fdf20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f0fd9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f0fd9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70d120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70d2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e99f4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e969200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e937ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e99f2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e99f4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e99fac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e99f2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70dd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70d2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d87fac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9ef900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9ef9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9ef900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9ef9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9ef9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9ef900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9ef900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bd4ed60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70d4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bd4ed60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd84a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd8120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd89e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd8ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70d900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70dac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70dc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d87fac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70d2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70eac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d7f9ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d7469e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd89e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70dba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd89e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d7463c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd8f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70d660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70de40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bd4e2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d746200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d7f9040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d746820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70d660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70dba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70de40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd8f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9184a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f2f3120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d7379e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d737ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d737ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d737c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d737d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d737e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d737f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d7462e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d746660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd8f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d746e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d7f9ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d7f9e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d9ef820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e9184a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e918580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e918660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5e918740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d7374a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d737820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc63c02ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc63c02ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d737820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc63c02ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d7f9e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd8040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd8120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd84a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd89e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd8ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70d2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70d120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70d200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70d3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70d820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d7f9900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70d740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d7f99e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://orteil.dashnet.org/cookieclicker/main.js?v=2.091, line 524: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bd4ed60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bd4e2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd8120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd84a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd89e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd8ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd8ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc63c6f3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd8ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc63c6f3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd84a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70b820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70b900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70bac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70d120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70d3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70d120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70dc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70be40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d87fac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70eac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70ec80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70bac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70bac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70bf20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70b120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70b9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70d580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70dd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bd4ef20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70b9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd84a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70dac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc63c223c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70dac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc63c223c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bd4ef20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70d580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70dd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d7464a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d737040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd84a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70b9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bd4ef20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70ee40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70ef20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70d2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d737580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bd4ef20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70ef20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70d2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70bac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70d2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70bac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70d660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f12f820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f12fe40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f12f040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d7f99e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70de40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70ed60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70ed60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d737d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d73a900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d737580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d73ae40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd89e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70b3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70b9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70d040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70d660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70dba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70e580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70eac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70ed60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5f82af20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d73ac80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bd4ed60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d706200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d706e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d706f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70b820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70bd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70d660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70dba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70d660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70dba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70dba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d737120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bd4ef20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bdd8f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d706820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d73ad60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70b4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70bba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70d120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70d120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70bba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5d70dd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 1128, MediaDecoderStateMachine #1] WARNING: 2dc5bd4ed60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1638122051748	Marionette	INFO	Stopped listening on port 57926
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1638136965101	geckodriver	INFO	Listening on 127.0.0.1:65352
+1638136968187	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65353" "-no-remote" "-profile" "C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofileco87cf"
+1638136968924	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofileco87cf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65353/devtools/browser/730643d8-3938-45d9-b4c7-b10d6cb8cfb6
+1638136973189	Marionette	INFO	Listening on port 65358
+1638136973556	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638137004733	Marionette	INFO	Stopped listening on port 65358
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofileqCuo3W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65461/devtools/browser/1b6fc513-5510-46a9-b1a6-a3f00f1d1a91
+1638137008948	Marionette	INFO	Listening on port 65466
+1638137009019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638137037120	Marionette	INFO	Stopped listening on port 65466
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messaconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofileXZ6JwO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49183/devtools/browser/6a163055-d2a8-46ab-b182-b57c339da819
+1638137044217	Marionette	INFO	Listening on port 49188
+1638137044760	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1638137885355	Marionette	INFO	Stopped listening on port 49188
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ "-no-remote" "-profile" "C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofileRmU1tU"
+1638137110574	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofileRmU1tU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49298/devtools/browser/48013cf7-b4ab-4a29-b987-5051d4d931c6
+1638137114280	Marionette	INFO	Listening on port 49303
+1638137114439	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638137143563	Marionette	INFO	Stopped listening on port 49303
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofile7HVW1a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49393/devtools/browser/9d659007-1299-46c7-82cf-bf72a3f9e0d5
+1638137132581	Marionette	INFO	Listening on port 49400
+1638137133285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638137142540	Marionette	INFO	Stopped listening on port 49400
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1638137156830	geckodriver	INFO	Listening on 127.0.0.1:49498
+1638137159880	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49499" "-no-remote" "-profile" "C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofiler9skq8"
+1638137160513	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofiler9skq8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49499/devtools/browser/b87dccf9-9ec1-4e99-8cf1-9f9683f74b7f
+1638137164013	Marionette	INFO	Listening on port 49504
+1638137164131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638137512574	Marionette	INFO	Stopped listening on port 49504
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "49608" "-no-remote" "-profile" "C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofileLKjGvi"
+1638137199886	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofileLKjGvi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49608/devtools/browser/7497fb26-5c3c-4a42-bb0e-08d5c5786670
+1638137203426	Marionette	INFO	Listening on port 49613
+1638137203570	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638137273762	Marionette	INFO	Stopped listening on port 49613
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638137682863	geckodriver	INFO	Listening on 127.0.0.1:54933
+1638137685912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54934" "-no-remote" "-profile" "C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofileJVFx5G"
+1638137686457	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofileJVFx5G\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54934/devtools/browser/7a33405f-65ff-4938-a567-1bc769fb086a
+1638137690545	Marionette	INFO	Listening on port 54939
+1638137690764	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 259: ReferenceError: PaymentRequest is not defined
+1638137886174	Marionette	INFO	Stopped listening on port 54939
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638175364117	geckodriver	INFO	Listening on 127.0.0.1:51293
+1638175367151	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51294" "-no-remote" "-profile" "C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofilerlZD3Z"
+1638175368000	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofilerlZD3Z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51294/devtools/browser/bfa38454-86e7-41ae-bfc8-ba07295b9d7d
+1638175373620	Marionette	INFO	Listening on port 51299
+1638175374195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 259: ReferenceError: PaymentRequest is not defined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1638176404637	Marionette	INFO	Stopped listening on port 51299
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62876" "-no-remote" "-profile" "C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofile25neFM"
+1638176325956	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofile25neFM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62876/devtools/browser/8d7b22c4-acb7-4860-818e-0cdc91e3cb61
+1638176329941	Marionette	INFO	Listening on port 62881
+1638176330246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 265: ReferenceError: PaymentRequest is not defined
+1638176405368	Marionette	INFO	Stopped listening on port 62881
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638177879839	geckodriver	INFO	Listening on 127.0.0.1:54604
+1638177882908	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54605" "-no-remote" "-profile" "C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofileneUvq8"
+1638177883609	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofileneUvq8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54605/devtools/browser/34365bf8-3492-4b69-972e-e74c525def50
+1638177887778	Marionette	INFO	Listening on port 54610
+1638177888278	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638177912219	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1638177964350	Marionette	INFO	Stopped listening on port 54610
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+7LdniU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53105/devtools/browser/7c4a4ede-8deb-4409-8c5d-5c213379038c
+1638177951096	Marionette	INFO	Listening on port 56258
+1638177951624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 259: ReferenceError: PaymentRequest is not defined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1638179183617	Marionette	INFO	Stopped listening on port 56258
+8179065527	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63138" "-no-remote" "-profile" "C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofileNt19ob"
+1638179066048	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofileNt19ob\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63138/devtools/browser/6298f933-f573-4aaa-9a59-27f4bc5779be
+1638179070374	Marionette	INFO	Listening on port 63144
+1638179070885	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 265: ReferenceError: PaymentRequest is not defined
+1638179175607	Marionette	INFO	Stopped listening on port 63144
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638636861091	geckodriver	INFO	Listening on 127.0.0.1:52919
+1638636864126	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52920" "-no-remote" "-profile" "C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofile1TWIyl"
+1638636864645	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofile1TWIyl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52920/devtools/browser/92e78054-02bb-4e13-87be-fba793ec2e5b
+1638636868027	Marionette	INFO	Listening on port 52927
+1638636868359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638636911553	Marionette	INFO	Stopped listening on port 52927
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52956" "-no-remote" "-profile" "C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofile5eSV0t"
+1638636871929	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ahmet\\AppData\\Local\\Temp\\rust_mozprofile5eSV0t\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52956/devtools/browser/27914555-0f3b-431d-b8e7-2fe7a835290d
+1638636875255	Marionette	INFO	Listening on port 59945
+1638636875679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638636910135	Marionette	INFO	Stopped listening on port 59945
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
