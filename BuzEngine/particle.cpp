@@ -19,21 +19,34 @@
 std::vector<float> Pos;
 
 static float const multiplier = std::sqrt(16*16+9*9)/16.0;
-void Particle::resolveCollision(std::vector<std::unique_ptr<Particle>>& parts) {
+bool Particle::resolveCollision(std::vector<std::unique_ptr<Particle>>& parts) {
     for (const auto &other: parts) {
         if (other.get() == this) continue;
+
+        float prevX = x;
+        float prevY = y;
+        float prevX2 = other->x;
+        float prevY2 = other->y;
+
+
  // Bereken de  aanliggende, overstaande zijde in de rechthoekige driehoek tussen deeltjes.
         float a = abs(other->x) - x;
         float b = abs(other->y) - y;
 // Schuine zijde
         float c = sqrt((a*a) + (b*b));
-        std::cout << c;
         // Rekening mee houden met de straal.
         if (c - (other->radius + radius) <= 0) {
-            std::cout << "Collision";
+            // Zorg ervoor dat de deeltjes niet door elkaar heen gaan.
+           /* x = prevX;
+            y = prevY;
+            other->x = prevX2;
+            other->y = prevY2; */
+           std::cout << "Collision detected";
+
+           return true;
         }
         else {
-            std::cout << "No ";
+            return false;
         }
 
     }

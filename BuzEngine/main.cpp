@@ -84,10 +84,11 @@ int main(int argc, char const *argv[])
             circle.setPosition(p->x, p->y);
             circle.setFillColor(sf::Color::White);
             window.draw(circle);
-            p->resolveCollision(particles);
+
         }
         // BEWEGING
         for (const auto& p : particles) {
+            p->resolveCollision(particles);
             p->x += vx * deltaTime;
             p->y += vy * deltaTime;
             if (p->x > 750) {

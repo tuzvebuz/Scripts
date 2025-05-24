@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "asgX+9HjCzefPNk4j+4q9x2mxxn2e6tvfD4jDhYMi9TrsE8zJWPLRCz6z//Dx3IDBYsc1EIm6rpnYi5IqdLGhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\esadk\\OneDrive\\Desktop\\Programming\\StardewValleyMods\\StardewPP\\StardewPP\\StardewPP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\esadk\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.1.1\\pathoschild.stardew.modbuildconfig.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

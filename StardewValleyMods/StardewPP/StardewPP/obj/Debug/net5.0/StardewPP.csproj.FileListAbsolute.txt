@@ -1,0 +1,8 @@
+C:\Users\esadk\OneDrive\Desktop\Programming\StardewValleyMods\StardewPP\StardewPP\bin\Debug\net5.0\StardewPP.deps.json
+C:\Users\esadk\OneDrive\Desktop\Programming\StardewValleyMods\StardewPP\StardewPP\bin\Debug\net5.0\StardewPP.dll
+C:\Users\esadk\OneDrive\Desktop\Programming\StardewValleyMods\StardewPP\StardewPP\obj\Debug\net5.0\StardewPP.csproj.AssemblyReference.cache
+C:\Users\esadk\OneDrive\Desktop\Programming\StardewValleyMods\StardewPP\StardewPP\obj\Debug\net5.0\StardewPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esadk\OneDrive\Desktop\Programming\StardewValleyMods\StardewPP\StardewPP\obj\Debug\net5.0\StardewPP.AssemblyInfoInputs.cache
+C:\Users\esadk\OneDrive\Desktop\Programming\StardewValleyMods\StardewPP\StardewPP\obj\Debug\net5.0\StardewPP.AssemblyInfo.cs
+C:\Users\esadk\OneDrive\Desktop\Programming\StardewValleyMods\StardewPP\StardewPP\obj\Debug\net5.0\StardewPP.csproj.CoreCompileInputs.cache
+C:\Users\esadk\OneDrive\Desktop\Programming\StardewValleyMods\StardewPP\StardewPP\obj\Debug\net5.0\StardewPP.dll

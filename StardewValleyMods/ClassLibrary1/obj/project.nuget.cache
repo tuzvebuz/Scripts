@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6SuxNUzMHwHjPgAOX51HUOENV4p9oODHjvznWtt5UTofwt+UxKnPo/+grl98O+M0Veq753IvNVH55LhIdJkriA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\esadk\\OneDrive\\Desktop\\Programming\\StardewValleyMods\\ClassLibrary1\\ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\esadk\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\esadk\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\esadk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

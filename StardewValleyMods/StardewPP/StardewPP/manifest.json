@@ -1,0 +1,11 @@
+{
+  "Name": "StardewPlus+",
+  "Author": "E. Kocaturk",
+  "Version": "0.0.1",
+  "Description": "one or two",
+  "UniqueID": "esat.StardewPP",
+  "EntryDll": "StardewPP.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+
+}

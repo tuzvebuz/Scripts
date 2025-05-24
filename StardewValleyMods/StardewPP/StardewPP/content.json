@@ -1,0 +1,10 @@
+{
+  "Format": "1.23.0",
+
+  "CustomLocations": [
+    {
+      "Name": "Custom_Village",
+      "FromMapFile": "assets/Map.tmx"
+    }
+  ]
+}

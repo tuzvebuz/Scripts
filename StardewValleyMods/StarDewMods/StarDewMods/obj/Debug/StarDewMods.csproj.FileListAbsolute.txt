@@ -1,0 +1,6 @@
+C:\Users\esadk\OneDrive\Desktop\Programming\StardewValleyMods\StarDewMods\StarDewMods\bin\Debug\StarDewMods.dll
+C:\Users\esadk\OneDrive\Desktop\Programming\StardewValleyMods\StarDewMods\StarDewMods\bin\Debug\StarDewMods.pdb
+C:\Users\esadk\OneDrive\Desktop\Programming\StardewValleyMods\StarDewMods\StarDewMods\obj\Debug\StarDewMods.csproj.AssemblyReference.cache
+C:\Users\esadk\OneDrive\Desktop\Programming\StardewValleyMods\StarDewMods\StarDewMods\obj\Debug\StarDewMods.csproj.CoreCompileInputs.cache
+C:\Users\esadk\OneDrive\Desktop\Programming\StardewValleyMods\StarDewMods\StarDewMods\obj\Debug\StarDewMods.dll
+C:\Users\esadk\OneDrive\Desktop\Programming\StardewValleyMods\StarDewMods\StarDewMods\obj\Debug\StarDewMods.pdb

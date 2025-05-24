@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="780de540-aa2d-4ab7-af5a-2fcf4562ed32" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Class1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassLibrary1.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassLibrary1.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/ClassLibrary1.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/ClassLibrary1.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/ClassLibrary1.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/ClassLibrary1.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/ClassLibrary1.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/ClassLibrary1.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/ClassLibrary1.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/ClassLibrary1.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Solution1/.idea/.idea.Solution1/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Solution1/.idea/.idea.Solution1/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Solution1/.idea/.idea.Solution1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Solution1/.idea/.idea.Solution1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Solution1/Solution1.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarDewMods/.idea/.idea.StarDewMods/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarDewMods/.idea/.idea.StarDewMods/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarDewMods/.idea/.idea.StarDewMods/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarDewMods/StarDewMods/bin/Debug/StarDewMods.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarDewMods/StarDewMods/bin/Debug/StarDewMods.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarDewMods/StarDewMods/main.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarDewMods/StarDewMods/obj/Debug/StarDewMods.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarDewMods/StarDewMods/obj/Debug/StarDewMods.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarDewMods/StarDewMods/obj/Debug/StarDewMods.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarDewMods/StarDewMods/obj/Debug/StarDewMods.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarDewMods/StarDewMods/obj/Debug/StarDewMods.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarDewMods/StarDewMods/pathoschild.stardew.modbuildconfig.4.1.1.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StardewModding/.idea/.idea.StardewModding/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StardewModding/.idea/.idea.StardewModding/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StardewModding/.idea/.idea.StardewModding/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StardewModding/StardewModding/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StardewModding/StardewModding/obj/Debug/net7.0/StardewModding.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StardewModding/StardewModding/obj/Debug/net7.0/StardewModding.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StardewModding/StardewModding/obj/Debug/net7.0/StardewModding.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StardewModding/StardewModding/obj/Debug/net7.0/StardewModding.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StardewModding/StardewModding/obj/Debug/net7.0/StardewModding.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StardewModding/StardewModding/obj/Debug/net7.0/StardewModding.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StardewModding/StardewModding/obj/StardewModding.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StardewModding/StardewModding/obj/StardewModding.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StardewModding/StardewModding/obj/StardewModding.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StardewModding/StardewModding/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StardewModding/StardewModding/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StardewModding/StardewModding/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StardewModding/StardewModding/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Apache license v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../auto-buy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../auto-crypto.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../auto-type.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../auto-write.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../face-recognition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../findcoordinates.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gettermina.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hangman.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../key-logger.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rotateproxy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../subprocess.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tktest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tktk.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2TXOD40TR0J4ZG7UXq9chXaIfEd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\esadk\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache",
+      "C:\\Users\\esadk\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache",
+      "C:\\Users\\esadk\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="780de540-aa2d-4ab7-af5a-2fcf4562ed32" name="Changes" comment="" />
+      <created>1691185836099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691185836099</updated>
+      <workItem from="1691185837154" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
