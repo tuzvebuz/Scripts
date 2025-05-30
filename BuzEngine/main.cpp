@@ -33,7 +33,7 @@ int main(int argc, char const *argv[])
     sf::Text text;
     text.setFont(font);
     std::string partic;
-
+    sf::Vertex line[2];
 
 
     // FIrst manually created particle object
@@ -43,6 +43,7 @@ int main(int argc, char const *argv[])
     // Main loop, if button pressed increment var with 1 and print it on screen
     while (window.isOpen())
     {
+
         float deltaTime = clock.restart().asSeconds();
 
         sf::Event event;
@@ -88,9 +89,17 @@ int main(int argc, char const *argv[])
         }
         // BEWEGING
         for (const auto& p : particles) {
+            line[0].position = sf::Vector2f(newX,0);
+            line[0].color = sf::Color::Red;
+
             p->resolveCollision(particles);
             p->x += vx * deltaTime;
             p->y += vy * deltaTime;
+
+
+            line[1].position = sf::Vector2f(p->x,0);
+            line[1].color = sf::Color::Red;
+            float newX = p->x;
             if (p->x > 750) {
                 p->x = 750;
             }
