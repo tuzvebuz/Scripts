@@ -39,10 +39,11 @@ int main(int argc, char const *argv[])
     // FIrst manually created particle object
 
     int amountParticles = 0;
-
     // Main loop, if button pressed increment var with 1 and print it on screen
     while (window.isOpen())
     {
+        Particle checkerClass(0,0,1);
+
 
         float deltaTime = clock.restart().asSeconds();
 
@@ -88,18 +89,13 @@ int main(int argc, char const *argv[])
 
         }
         // BEWEGING
-        for (const auto& p : particles) {
-            line[0].position = sf::Vector2f(newX,0);
-            line[0].color = sf::Color::Red;
 
-            p->resolveCollision(particles);
+        checkerClass.resolveCollision(particles);
+        for (const auto& p : particles) {
+
             p->x += vx * deltaTime;
             p->y += vy * deltaTime;
 
-
-            line[1].position = sf::Vector2f(p->x,0);
-            line[1].color = sf::Color::Red;
-            float newX = p->x;
             if (p->x > 750) {
                 p->x = 750;
             }
