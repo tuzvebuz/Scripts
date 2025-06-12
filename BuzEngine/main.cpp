@@ -77,8 +77,8 @@ int main(int argc, char const *argv[])
         text.setCharacterSize(24);
         window.clear();
         window.draw(text);
-        float vx = 10;
-        float vy = 5;
+        float vx = 50;
+        float vy = 45;
 
         // TEKENEN
         for (const auto& p : particles) {
@@ -90,12 +90,11 @@ int main(int argc, char const *argv[])
         }
         // BEWEGING
 
-        checkerClass.resolveCollision(particles);
+        //checkerClass.resolveCollision(particles);
         for (const auto& p : particles) {
 
             p->x += vx * deltaTime;
             p->y += vy * deltaTime;
-
             if (p->x > 750) {
                 p->x = 750;
             }
@@ -103,7 +102,19 @@ int main(int argc, char const *argv[])
                 p->y = 599;
             }
 
+
         }
+        for (auto& p : particles) {
+            bool collision = p->resolveCollision(particles);
+            if (collision) {
+                std::cout << "Collision";
+            }
+        }
+        /*for (size_t i = 0; i < particles.size(); i++) {
+            for (size_t j = i + 1; j < particles.size() + 1; j++) {
+
+            }
+        }*/
         window.display();
 
     }

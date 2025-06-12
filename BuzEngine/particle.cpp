@@ -19,7 +19,8 @@
 std::vector<float> Pos;
 
 static float const multiplier = std::sqrt(16*16+9*9)/16.0;
-void Particle::resolveCollision(std::vector<std::unique_ptr<Particle>>& parts) {
+bool Particle::resolveCollision(std::vector<std::unique_ptr<Particle>>& parts) {
+    bool collisionDetected = false;
     for (const auto &other: parts) {
         if (other.get() == this) continue;
 
@@ -31,10 +32,26 @@ void Particle::resolveCollision(std::vector<std::unique_ptr<Particle>>& parts) {
 // Schuine zijde
         float c = sqrt((a*a) + (b*b));
         if (c <= (radius + other->radius)) {
+            collisionDetected = true;
+            // Displace both particles away from each other
+            float overlap = 0.5f * (minDistance - distance);
 
-            std::cout << "Collision detected";
+            // Normalize direction
+            float nx = dx / distance;
+            float ny = dy / distance;
+            x -= nx * overlap;
+            y -= ny * overlap;
+
+            other->x += nx * overlap;
+            other->y += ny * overlap;
+
 
         }
+        sf::VertexArray line(sf::Lines, 2);
+        line[0].position = sf::Vector2f(x, y);
+        line[1].position = sf::Vector2f(other->x, other->y);
+        line[0].color = sf::Color::White;
+        line[1].color = sf::Color::White;
 
         // std::sort(parts.begin(), parts.end());
 
@@ -56,6 +73,8 @@ void Particle::resolveCollision(std::vector<std::unique_ptr<Particle>>& parts) {
 
 
     }
+    return collisionDetected;
+
 
 
 
